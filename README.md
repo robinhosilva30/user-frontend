@@ -17,7 +17,7 @@ Para executar este projeto, você precisará ter o Node.js (v24) e npm (ou Yarn)
 
 1. Clone o repositório e acesse o diretório do projeto:
 ```bash
-git clone [https://github.com/robinhosilva30/user-frontend.git](https://github.com/robinhosilva30/user-frontend.git)
+git clone https://github.com/robinhosilva30/user-frontend.git
 cd user-frontend
 ```
 
